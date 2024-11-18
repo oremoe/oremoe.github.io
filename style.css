@@ -53,6 +53,7 @@
     height: 640px;
     text-align: center;
     position: relative;
+    backgrount-animation: hide;
 
 }
 
